@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_components_locations",
+  "info": {
+    "displayName": "location"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "location_contacts": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.single-contact"
+    }
+  }
+}

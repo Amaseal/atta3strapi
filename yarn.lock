@@ -1991,7 +1991,7 @@
     "@strapi/utils" "4.10.2"
     "fs-extra" "10.0.0"
 
-"@strapi/strapi@^4.0.0", "@strapi/strapi@^4.3.4", "@strapi/strapi@^4.9.0", "@strapi/strapi@4.10.2":
+"@strapi/strapi@^4.0.0", "@strapi/strapi@^4.0.7", "@strapi/strapi@^4.3.4", "@strapi/strapi@^4.9.0", "@strapi/strapi@4.10.2":
   "integrity" "sha512-5ATm1dTxCwyYHURMGsZroIKRHy+6XqZkRLPIcsMntO3i+rLO/0A84QMI8PTf9H1Gd1tSJ2JRNDNZR2IxdgySfA=="
   "resolved" "https://registry.npmjs.org/@strapi/strapi/-/strapi-4.10.2.tgz"
   "version" "4.10.2"
@@ -8971,6 +8971,16 @@
   "integrity" "sha512-Rz6yejtVyWnVjC1RFvNmYL10kgjC49EOghxWn0RFqlCHGFpQx+Xe7yW3I4ceK1SGrWIGMjD5Kbue8W/udkbMJg=="
   "resolved" "https://registry.npmjs.org/std-env/-/std-env-3.3.3.tgz"
   "version" "3.3.3"
+
+"strapi-plugin-populate-deep@^2.0.0":
+  "integrity" "sha512-IsdXZPjRiOnaczoQaXI6xfxnFqUhR70uW1VCRbY4a3hEmmocpCpIUGx7TiHdNPJOZuDiueTgEIQ4V5XEru9Lvw=="
+  "resolved" "https://registry.npmjs.org/strapi-plugin-populate-deep/-/strapi-plugin-populate-deep-2.0.0.tgz"
+  "version" "2.0.0"
+
+"strapi-plugin-transformer@^3.1.0":
+  "integrity" "sha512-wSWntxTeyx+9gTLsR7/rxAcx13PG+AGaLFUHARXu0cZOeULCtLHTgVbGnn0TvzlL/hUq21IKFZRuGF1amsgrzA=="
+  "resolved" "https://registry.npmjs.org/strapi-plugin-transformer/-/strapi-plugin-transformer-3.1.0.tgz"
+  "version" "3.1.0"
 
 "stream-chain@^2.2.5", "stream-chain@2.2.5":
   "integrity" "sha512-1TJmBx6aSWqZ4tx7aTpBDXK0/e2hhcNSTV8+CbFJtDjbb+I1mZ8lHit0Grw9GRT+6JbIrrDd8esncgBi8aBXGA=="
